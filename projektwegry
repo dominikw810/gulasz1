@@ -1,1 +1,3 @@
-widzisz?
+import geopandas ad gp
+
+wczytajta= geopandas.read.file(
